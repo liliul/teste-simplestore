@@ -1,5 +1,26 @@
 # simpleStore
 
+## Inicio
+
+instalar 
+```
+npm install
+```
+
+instalar bower
+```
+npm install -g bower
+
+&
+
+bower install
+```
+
+criar servidor rapido
+```
+python3 -m http.server 
+```
+
 [simpleStore](http://chrisdiana.github.io/simplestore) is a clean, responsive
 storefront boilerplate with no database you can setup in minutes. simpleStore is built on
 [simpleCart.js](http://simplecartjs.org) and [Skeleton](http://getskeleton.com)

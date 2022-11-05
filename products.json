@@ -29,6 +29,24 @@
 			],
 			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
 			"description" : "This is another fun grey T-shirt"
+		},
+        {
+			"name" : "Naruto T-shirt",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
+			"description" : "Naruto Uzumaki This is another fun grey T-shirt"
+		},
+        {
+			"name" : "Sasuke T-shirt",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
+			"description" : "Sasuke Uchiha This is another fun grey T-shirt"
 		}
 	]
 }
